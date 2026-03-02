@@ -1,0 +1,1 @@
+# Estou enviando a pasta drawable porque adicionei alguns arquivos .xml (rounded_background e edittext_custom) que estão senso referenciados no activity_main.xml
